@@ -1,0 +1,7 @@
+获取股票代码地址
+    深圳：http://www.szse.cn/api/report/ShowReport?SHOWTYPE=xlsx&CATALOGID=1110x 文件
+    上海：http://www.sse.com.cn/js/common/ssesuggestdata.js 
+
+https://vip.stock.finance.sina.com.cn/quotes_service/view/vML_DataList.php?asc=j&symbol=sh600060&num=1023
+https://stock.xueqiu.com/v5/stock/chart/minute.json?symbol=SH600995&period=1d
+https://stock.xueqiu.com/v5/stock/history/trade.json?symbol=SH600995&count=1024
